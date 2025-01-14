@@ -54,5 +54,5 @@ display(df_silver)
 // COMMAND ----------
 
 // saving in silver layer
-val path = "/mnt/data/silver/property_dataset"
+val path = "dbfs:/mnt/data/silver/property_dataset"
 df_silver.write.format("delta").mode("overwrite").save(path)
