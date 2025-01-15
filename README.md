@@ -1,11 +1,10 @@
 # Azure Databricks and Data Factory: Creating and Orchestrating Pipelines
 
-## Project Overview
-
 <p align="center">
-  <img src="https://res.cloudinary.com/dof97idbn/image/upload/v1736911841/real_state_de.jpg" alt="Pipeline de dados imobiliário">
+  <img src="https://res.cloudinary.com/dof97idbn/image/upload/v1736911841/real_state_de.jpg" alt="Pipeline de dados imobiliário" width="600" />
 </p>
 
+## Project Overview
 
 We, as data engineers for a real estate company, have been tasked with developing a complete data engineering pipeline. Our goal is to:
 
